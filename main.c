@@ -3,6 +3,6 @@
 int main()
 {
 	int i = 0;
-	int a = f1();
+	int a = f1(i);
 	return 0;
 }
